@@ -92,6 +92,7 @@
 **Postman collection**: 
 
 [Collection](https://drive.google.com/file/d/1c23KD-Tc-Ig7yARGe2LF6IC_FM6pSP6J/view?usp=sharing)
+[Collection Trello.com](https://drive.google.com/file/d/1WfOLCabIyoFd8vCk2t9kjSfT-YDK1CNv/view?usp=sharing)
 
 *Доступ к чек листам и ТMS*:
 
